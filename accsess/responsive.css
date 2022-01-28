@@ -1,0 +1,261 @@
+@media(max-width: 739px){
+    .forum .forum-content-right {
+        position: relative;
+        display: inline-block;
+        top:0;
+        right: -9%;
+        width: 42%;
+        height: 585px;
+    }
+    .forum {
+        width: 100%;
+        height: 610px;
+        margin-top: 20px;
+    }
+    .forum .forum-content-left {
+        position: relative;
+        top: 0;
+        left: 7%;
+        display: inline-block;
+        height: 585px;
+        width: 42%;
+    }
+    .banner2 {
+        height: 310px;
+    }
+    .banner1 {
+        margin-top: 120px;
+        width: 100%;
+        min-height: 410px;
+    }
+ }
+ @media (max-width:480px){
+    .forum .forum-content-right {
+        position: relative;
+        display: inline-block;
+        top:0;
+        right: -9%;
+        width: 42%;
+        height: 585px;
+    }
+    .forum {
+        width: 100%;
+        height: 610px;
+        margin-top: 20px;
+    }
+    .forum .forum-content-left {
+        position: relative;
+        top: 0;
+        left: 7%;
+        display: inline-block;
+        height: 585px;
+        width: 42%;
+    }
+    .banner1{
+        height: 410px;
+    }
+    .banner2 {
+        height: 315px;
+    }
+ }
+ @media(min-width:740px) and (max-width:1024px){
+    .header-bottom .main-menu .menu-child {
+        position: absolute;
+        display: none;
+        width: 94%;
+    }
+    .menu-child .menu-child-left {
+        width: 15%;
+    }
+    .header-bottom .main-menu {
+        margin-left: 50px;
+    }
+    .header-bottom .main-menu > li {
+        padding-right: 20px;
+    }
+    .search-bar {
+        top:8px;
+    }
+    .banner1 {
+        margin-top: 120px;
+        width: 100%;
+        min-height: 428px;
+        background-image: url(/image/banner1.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+    .banner1 h4 {
+        position: absolute;
+        top: 12%;
+        left: 10%;
+        font-size: 33px;
+    }
+    .banner1 button {
+        width: 200px;
+        height: 60px;
+        background-color: black;
+        color: white;
+        position: absolute;
+        left: 10%;
+        top: 43%;
+    }
+    .banner2 {
+        height: 328px;
+    }
+    .banner2 h4 {
+        position: absolute;
+        top: 15%;
+        left: 4%;
+        font-size: 28px;
+        color: white;
+        text-shadow: 0 0 7px black;
+    }
+    .banner3 {
+        width: 100%;
+        min-height: 465px;
+        background-image: url(/image/banner3.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+    .banner3 h4 {
+        position: absolute;
+        top: 12%;
+        left: 10%;
+        font-size: 33px;
+    }
+    .banner3 button {
+        width: 200px;
+        height: 60px;
+        background-color: black;
+        color: white;
+        position: absolute;
+        left: 10%;
+        top: 43%;
+    }
+    .content1-scroll .scroll-list li img {
+        width: 200px;
+        height: 330px;
+    }
+    .content1-scroll .scroll-list li {
+        width: 200px;
+        height: 330px;
+        display: inline-block;
+        border: solid 1px grey;
+        margin-left: 10px;
+        position: relative;
+    }
+    .content1-scroll .scroll-list {
+        width: 250%;
+        height: 330px;
+    }
+    .content1 {
+        width: 100%;
+        height: 1180px;
+        overflow-x: hidden;
+        display: block;
+    }
+    .news{
+        height: 530px;
+    }
+    .forum .forum-content-right {
+        position: relative;
+        display: inline-block;
+        top: 26px;
+        right: -9%;
+        width: 42%;
+        height: 680px;
+    }
+    .option-gender .option-body .gender-woman {
+        background-image: url(/image/updated_gender_women_dt_tcm212-636701.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .option-gender .option-body .gender-man {
+        background-image: url(/image/updated_gender_men_dt_tcm212-636698.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .option-gender .option-body .gender-kids {
+        background-image: url(/image/updated_gender_kids_dt_tcm212-636695.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .option-gender .option-body .col {
+        width: 30%;
+        height: 200px;
+    }
+    .option-gender {
+        height: 325px;
+        width: 100%;
+        position: relative;
+    }
+    .banner-end h4 {
+        position: absolute;
+        left: 23%;
+        top: 32px;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .banner-end button {
+        width: 250px;
+        height: 55px;
+    }
+    .list-box {
+        width: 88%;
+        height: 420px;
+        position: absolute;
+        top: 30px;
+        left: 10%;
+    }
+    #footer {
+        width: 100%;
+        height: 490px;
+        position: relative;
+    }
+    .footer-bottom p {
+        position: absolute;
+        left: 22%;
+    }
+    .content-list img {
+        display: none;
+        width: 100%;
+        height: 390px;
+    }
+    .content-list {
+        width: 100%;
+        height: 390px;
+    }
+    .forum .forum-content-left {
+        position: relative;
+        top: -20px;
+        left: 7%;
+        display: inline-block;
+        height: 585px;
+        width: 42%;
+    }
+    .forum .forum-content-right {
+        position: relative;
+        display: inline-block;
+        top:0;
+        right: -9%;
+        width: 42%;
+        height: 585px;
+    }
+    .forum-content-right img {
+        width: 100%;
+        height: 390px;
+    }
+    .forum button {
+        width: 150px;
+        height: 60px;
+        position: absolute;
+        bottom: 10px;
+        background-color: white;
+        color: black;
+    }
+}
+@media(min-width:1025px){
+
+}
